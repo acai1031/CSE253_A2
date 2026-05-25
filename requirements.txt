@@ -1,0 +1,10 @@
+torch>=2.0
+miditok>=3.0
+symusic
+miditoolkit
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+openpyxl
