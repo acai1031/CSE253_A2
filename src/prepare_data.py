@@ -45,7 +45,7 @@ def main():
         use_time_signatures=True,
     )
     tokenizer = REMI(config)
-    tokenizer.train(vocab_size=args.vocab_size, files_paths=train_files)
+    # tokenizer.train(vocab_size=args.vocab_size, files_paths=train_files)
     tokenizer.save(out_dir / "tokenizer.json")
 
     meta = {
