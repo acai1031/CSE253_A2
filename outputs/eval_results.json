@@ -1,0 +1,7 @@
+{
+  "markov_perplexity": 10.939208218883962,
+  "transformer_loss": 1.001201526228204,
+  "transformer_perplexity": 2.7215498783022256,
+  "n_tokens": 712162,
+  "unique_tokens": 210
+}
